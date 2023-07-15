@@ -83,5 +83,4 @@ confusion_matrix(y_test,y_pred, labels=['FAKE','REAL'])
 
 # Conclusion
 
-We started with a political dataset, a TfidfVectorizer, a PassiveAggressiveClassifier, and fitted our model. In the end, we were able to achieve an accuracy of 92.82%.
-"""
+We started with a political dataset, a TfidfVectorizer, a PassiveAggressiveClassifier, and fitted our model. In the end, we were able to achieve an accuracy of 93.37%."""
